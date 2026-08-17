@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,git,github,davinci" />
+  <img src="https://skillicons.dev/icons?i=flutter,git,github,vscode" />
 </p>
 
 <br>
