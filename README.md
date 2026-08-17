@@ -10,6 +10,12 @@
   <a href="https://github.com/niloy365">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@mother_earthh">
+    <img src="https://goodly.co.in/wp-content/uploads/2023/10/youtube-logo-png-46016-1.png" />
+  </a>
+  <a href="https://www.youtube.com/@shortsforlife2">
+    <img src="https://goodly.co.in/wp-content/uploads/2023/10/youtube-logo-png-46016-1.png" />
+  </a>
 </p>
 
 <br>
