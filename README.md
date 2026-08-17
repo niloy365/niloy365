@@ -52,7 +52,7 @@
 <h2 align="center">📌 Featured Projects</h2>
 
 <p align="center">
-  <a href="[YOUR_IN_DHAKA_REPO_URL](https://in-dhaka-4jultkaka-niloy365s-projects.vercel.app/)">🚌 inDhaka</a> •
+  <a href="https://in-dhaka-4jultkaka-niloy365s-projects.vercel.app/">🚌 inDhaka</a> •
   <a href="YOUR_VENDOR_REPO_URL">🛒 Vendor</a>
 </p>
 
