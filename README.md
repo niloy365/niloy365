@@ -61,7 +61,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niloy365&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://in-dhaka-4jultkaka-niloy365s-projects.vercel.app/" />
 </p>
 
 <p align="center">
