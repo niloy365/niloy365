@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,git,github,davinci" />
 </p>
 
 <br>
@@ -40,8 +40,6 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  💻 Junior Software Engineer<br>
-  🇯🇵 Currently working and learning in Japan<br>
   🌱 Interested in Frontend & Full-Stack Development<br>
   ⚛️ React • JavaScript • TypeScript<br>
   🖥️ Node.js • PHP • Laravel<br>
