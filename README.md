@@ -61,14 +61,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=niloy365&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niloy365&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=niloy365&theme=dark&hide_border=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=niloy365&theme=dark&hide_border=true" />
 </p>
 
 <br>
+
 
 <p align="center">
   <i>Thanks for visiting my profile! 🚀</i>
