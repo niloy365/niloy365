@@ -37,40 +37,10 @@
 
 <br>
 
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
-  🌱 Interested in Frontend & Full-Stack Development<br>
-  ⚛️ React • JavaScript • TypeScript<br>
-  🖥️ Node.js • PHP • Laravel<br>
-  🗄️ MongoDB • MySQL<br>
-  🚀 Always learning and building new things
-</p>
-
-<br>
 
 <h2 align="center">📌 Featured Projects</h2>
 
 <p align="center">
   <a href="https://in-dhaka-4jultkaka-niloy365s-projects.vercel.app/">🚌 inDhaka</a> •
   <a href="YOUR_VENDOR_REPO_URL">🛒 Vendor</a>
-</p>
-
-<br>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niloy365&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=niloy365&theme=dark&hide_border=true" />
-</p>
-
-<br>
-
-
-<p align="center">
-  <i>Thanks for visiting my profile! 🚀</i>
 </p>
