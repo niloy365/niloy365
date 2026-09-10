@@ -18,9 +18,7 @@
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
-
 <br>
-
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
 <p align="center">
@@ -37,10 +35,13 @@
 
 <br>
 
-
 <h2 align="center">📌 Featured Projects</h2>
-
 <p align="center">
-  <a href="https://in-dhaka-4jultkaka-niloy365s-projects.vercel.app/" class="font-bold text-lg">🚌 inDhaka</a> •
-  <a href="YOUR_VENDOR_REPO_URL" class="font-bold text-lg">🛒 Vendor</a>
+  <strong>
+    <big>
+      <a href="https://in-dhaka-4jultkaka-niloy365s-projects.vercel.app/">🚌 inDhaka</a>
+      •
+      <a href="YOUR_VENDOR_REPO_URL">🛒 Vendor</a>
+    </big>
+  </strong>
 </p>
