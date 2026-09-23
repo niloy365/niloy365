@@ -41,7 +41,7 @@
     <big>
       <a href="https://in-dhaka-4jultkaka-niloy365s-projects.vercel.app/">🚌 inDhaka</a>
       •
-      <a href="YOUR_VENDOR_REPO_URL">🛒 Vendor</a>
+      <a href="https://vendor-gmfo098ct-niloy365s-projects.vercel.app/">🛒 Vendor</a>
     </big>
   </strong>
 </p>
