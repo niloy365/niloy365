@@ -13,10 +13,6 @@
   <a href="https://www.youtube.com/@mother_earthh">
   <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  
-  <a href="https://www.youtube.com/@shortsforlife2">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
 </p>
 <br>
 <h2 align="center">🛠️ Technologies & Tools</h2>
