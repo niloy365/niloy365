@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Niloy 👋</h1>
 
 <p align="center">
+  <a href="https://www.youtube.com/@shortsforlife2">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
   <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/gourav-biswas-niloy-76581a325/)">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
