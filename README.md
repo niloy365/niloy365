@@ -38,6 +38,8 @@
       <a href="https://in-dhaka-4jultkaka-niloy365s-projects.vercel.app/">🚌 inDhaka</a>
       •
       <a href="https://vendor-gmfo098ct-niloy365s-projects.vercel.app/">🛒 Vendor</a>
+      •
+      <a href="https://doinondin.netlify.app">🗓️ Daily</a>
     </big>
   </strong>
 </p>
